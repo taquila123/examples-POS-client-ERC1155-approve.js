@@ -1,0 +1,1 @@
+# examples-POS-client-ERC1155-approve.js
